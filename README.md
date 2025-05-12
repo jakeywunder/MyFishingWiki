@@ -1,2 +1,2 @@
 # MyFishingWiki
-My personal FFXIV Dawntrail fishing relic guide
+My presets for FFXIV Dawntrail fishing using AutoHook. Click Wiki up above <3
